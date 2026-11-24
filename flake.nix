@@ -24,7 +24,7 @@
           # The full module cache is needed, because "go generate" runs
           # assets_generate.go, which imports vfsgen.
           proxyVendor = true;
-          vendorHash = "sha256-BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=";
+          vendorHash = "sha256-Zgj0cokYdeUX1FsnByEwBxVlqAnu7CSG0GNEgu9cVMY=";
 
           subPackages = [ "cmd/beach" ];
 
